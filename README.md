@@ -1,4 +1,4 @@
-# Small Cryptocurrency project
+# Cryptocurrency project
 
 Single file project written in Python that I did during a Blockchain course.
 This was helpfull for me to adquire the main concepts of how a criptocurrency works.
